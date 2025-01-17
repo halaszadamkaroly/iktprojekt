@@ -1,0 +1,77 @@
+.card-title {
+    color:black;
+    text-align: center;
+}
+.card-text {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+    margin: 50px auto;
+}
+.card button:hover {
+    background-color: #0056b3;
+}
+
+.szöveg {
+text-align: center;
+background-image: url(dark-fantasy-scene.jpg);
+color: white;
+}
+.hatter {
+    background-image: url(dark-fantasy-scene.jpg);
+}
+.nav-link {
+    color: white;
+    
+}
+.btn-primary {
+    color: white;
+    background-color: black;
+}
+.nav-link:hover {
+    color: white;
+}
+.cim {
+    color: lightblue;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.dropdown-menu {
+    color: white;
+}
+.dropdown-item {
+    color: black;
+}
+.dropdown-divider {
+    color: black;
+}
+.btn-primary:hover {
+    color: white;
+    background-color: black;
+}
+
+  
+.logo {
+    width: 100px; 
+    height: auto; 
+    position: absolute;
+    top: 2px; 
+    right: 5px; 
+
+  }
+  
+.content {
+    padding: 20px;
+  }
+.btn-primary:hover {
+    color: white;
+    background-color: black;
+}
